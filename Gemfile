@@ -5,6 +5,7 @@ ruby '2.5.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.2'
+gem 'devise'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
@@ -33,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'simple_form', '~> 4.0.1'
+gem 'simple_form'
 gem 'haml', '~> 5.1'
 gem 'bootstrap-sass'
 
