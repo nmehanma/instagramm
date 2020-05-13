@@ -38,6 +38,7 @@ gem 'simple_form'
 gem 'haml', '~> 5.1'
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'paperclip'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
