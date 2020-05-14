@@ -40,6 +40,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.12.1'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
